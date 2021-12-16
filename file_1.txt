@@ -22,13 +22,8 @@ teste 7
 
 teste 8
 
-
-
-teste 9
-
-
 teste 11
 
-lucas teste
-
 aqui e agora
+
+e agora?
