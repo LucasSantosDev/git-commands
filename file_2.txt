@@ -1,3 +1,5 @@
 ***REMOVED***
 
 ***REMOVED***
+
+const test = function() { ***REMOVED*** }
