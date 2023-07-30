@@ -1,5 +1,3 @@
 pass: ***REMOVED***
 
 pass2: ***REMOVED***
-
-const test = function() { ***REMOVED*** }
