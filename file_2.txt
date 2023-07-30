@@ -1,4 +1,4 @@
-pass: process.env.PASS
+pass: ***REMOVED***
 
 pass2: process.env.PASS2
 
