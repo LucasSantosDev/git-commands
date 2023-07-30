@@ -1,5 +1,5 @@
-pass: ''
+pass: process.env.PASS
 
-pass2: ''
+pass2: process.env.PASS2
 
 console.log('test')
